@@ -1,6 +1,6 @@
 # Advent of Code Typescript Starter
 
-A tamplate for [Advent of Code](https://adventofcode.com) written in Typescript with Node.
+A template for [Advent of Code](https://adventofcode.com) written in Typescript with Node.
 
 ## Usage
 
